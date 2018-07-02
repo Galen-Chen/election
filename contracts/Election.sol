@@ -1,7 +1,5 @@
 pragma solidity ^0.4.2;
 
-// test works?
-
 contract Election {
   
     // model  a  candidate
@@ -19,7 +17,7 @@ contract Election {
     uint public candidatesCount;
 
     //constructor
-    function Election () public {   
+    constructor () public {   
         addCandidate("Candidate 1");
         addCandidate("Candidate 2");
     }
