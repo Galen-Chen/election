@@ -1,6 +1,7 @@
 # election
-//
-start learning blockchain on Ethereum
+
+
+# start learning blockchain on Ethereum
 
 follow this tutorial:
 http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial
